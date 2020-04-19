@@ -1,8 +1,3 @@
-com\example\BComponentIntf.class
-com\example\IClasse.class
-com\example\MyApp.class
 com\example\BasicApplication.class
-com\example\BComponent.class
-com\example\AComponent.class
-com\example\AComponentIntf.class
+com\example\iClasse.class
 com\example\MaClasse.class

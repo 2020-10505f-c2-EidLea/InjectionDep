@@ -9,10 +9,10 @@ import org.springframework.stereotype.Component;
 
 /**
  *
- * @author Pascal Fares
+ * @author Lea
  */
 @Component
-public class MaClasse implements IClasse {
+public class MaClasse implements iClasse{
 
     @Override
     public void affiche() {

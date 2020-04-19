@@ -7,8 +7,8 @@ package com.example;
 
 /**
  *
- * @author Acer
+ * @author Lea
  */
-public interface IClasse {
-    public void affiche();
+public interface iClasse {
+    public void affiche ();
 }
